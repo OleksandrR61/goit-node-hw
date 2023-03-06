@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OleksandrR61/goit-node-hw/issues"
   },
-  "homepage": "https://github.com/OleksandrR61/goit-node-hw#readme"
+  "homepage": "https://github.com/OleksandrR61/goit-node-hw#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
