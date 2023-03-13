@@ -19,7 +19,7 @@ async function getContactById(contactId) {
         );
 
         if (contact.length) {
-            console.log(contact);
+            console.table(contact);
         } else {
             console.log(`Contact with id ${contactId} not found`);
         };
